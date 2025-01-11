@@ -1,5 +1,4 @@
 # Ren´Py projekti
-<hr>
 
 **Kalkulator**
 
@@ -12,3 +11,4 @@ Kviz pitanja s četiri ponuđena odgovora, igrač unosi odabir oznake točnog od
 **MD76**
 
 Prikaz mogućnosti: input, characters, audio, video, animacija
+<hr>
