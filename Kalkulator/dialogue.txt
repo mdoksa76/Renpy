@@ -1,0 +1,6 @@
+Kalkulator matematičkih zadataka - podržani složeni izrazi osnovnih matematičkih operacija sa zagradama, apsolutnim vrijednostima, potencijama, logaritmima, trigonometrijskim funkcijama.
+Apsolutna vijednost broja unosi se kao abs(broj). Primjer za -10: abs(-10).
+Potencija se unosi korištenjem **. Primjer za ´3 na 7´: 3**7.
+Kut u stupnjevima se unosi kao kut*pi/180. Primjer za kut od 90°: sin(90*pi/180).
+Logaritam broja se unosi u obliku log(broj,baza). Primjer za logaritam od 8 u bazi 2: log(8,2).
+Ako se unese samo log(broj), onda se računa logaritam u bazi e. Primjer: log(e).
