@@ -1,2 +1,9 @@
 # Ren´Py projekti
-RenPy projects
+<hr>
+
+**Kalkulator**
+Matematički kalkulator korištenjem Python eval() funkcije.
+
+**Kviz**
+Kviz pitanja s četiri ponuđena odgovora, igrač unosi odabir oznake točnog odgovora: a, b, c, ili d.
+
